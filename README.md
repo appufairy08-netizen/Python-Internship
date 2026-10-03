@@ -1,34 +1,34 @@
-# Student Marks Analysis
+# Employee Salary Analysis
 
 ## Project Description
-->This project is based on beginners level python code which analyzes the student marks and also used basic functions.
+->This project is based on beginners level python code which analyzes the student salaries and also perform basic functions.
 
 ## Objective
-->To implement and practice basic Python functions and code for students data analyzing.
+->To implement and practice basic Python functions and code for employees data(salaries) processing and analyzing.
 
 ## Input Data
-->[87,95,46,53,38]
+->[20000,23000,15000,40000,52000]
 
 ## Functions Used
 ->sum()
+->len()
 ->max()
 ->min()
 
 ## Features
-->It calculates total number of students
-->Calculates total marks
-->Calculates Average marks
-->Calculates highest marks
-->Calculates lowest marks
+->It calculates total number of employees
+->Calculates total salary
+->Calculates Average salary
+->Calculates highest salary
+->Calculates lowest salary
 
 ## Result
-->Total Students: 5
-->Total Marks: 319
-->Average Marks: 63.8
-->Highest Marks: 95
-->Lowest Marks: 38
+->Number of Employees: 5
+->Total Salary: 150000
+->Average Salary: 30000.0
+->Highest Salary: 52000
+->Lowest Salary: 15000
 
 ## How to run
 ->Install python and jupiter notebook
-->Run the code from file named Student_Marks_Analysis.ipynb
-
+->Run the code from file named Employee_Salary_Analysis.ipynb
